@@ -4,12 +4,12 @@
     <title>Safari</title>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    
+
     <link href="https://fonts.googleapis.com/css?family=Poppins:300,400,500,600,700,800,900" rel="stylesheet">
 
     <link rel="stylesheet" href="css/open-iconic-bootstrap.min.css">
     <link rel="stylesheet" href="css/animate.css">
-    
+
     <link rel="stylesheet" href="css/owl.carousel.min.css">
     <link rel="stylesheet" href="css/owl.theme.default.min.css">
     <link rel="stylesheet" href="css/magnific-popup.css">
@@ -21,7 +21,7 @@
     <link rel="stylesheet" href="css/bootstrap-datepicker.css">
     <link rel="stylesheet" href="css/jquery.timepicker.css">
 
-    
+
     <link rel="stylesheet" href="css/flaticon.css">
     <link rel="stylesheet" href="css/icomoon.css">
     <link rel="stylesheet" href="css/style.css">
@@ -48,7 +48,7 @@
 	    </div>
 	  </nav>
     <!-- END nav -->
-    
+
     <section class="hero-wrap hero-wrap-2 js-fullheight" style="background-image: url('images/place-4.jpg');" data-stellar-background-ratio="0.5">
       <div class="overlay"></div>
       <div class="container">
@@ -129,7 +129,7 @@
 				              </div>
 			              </div>
 		        			</div>
-		        			
+
 		        			<div class="col-lg align-items-end">
 		        				<div class="form-group">
 		        					<label for="#">Price Limit</label>
@@ -204,7 +204,7 @@
 			</div>
 			@endforeach
         </div>
-		
+
 		{{ $destinations->links() }}
 
     	</div>
@@ -253,9 +253,8 @@
             	<h2 class="ftco-heading-2">Have any Questions?</h2>
             	<div class="block-23 mb-3">
 	              <ul>
-	                <li><span class="icon icon-map-marker"></span><span class="text">Ole Sangale Road, off
-									Langata Road, in Madaraka Estate, Nairobi, Kenya.</span></li>
-	                <li><a href="#"><span class="icon icon-phone"></span><span class="text">+254712345678</span></a></li>
+	                <li><span class="icon icon-map-marker"></span><span class="text">Bagmati Province</span></li>
+	                <li><a href="#"><span class="icon icon-phone"></span><span class="text">+9779812345678</span></a></li>
 	                <li><a href="#"><span class="icon icon-envelope"></span><span class="text">info@yourdomain.com</span></a></li>
 	              </ul>
 	            </div>
@@ -271,8 +270,8 @@
         </div>
       </div>
     </footer>
-    
-  
+
+
 
   <!-- loader -->
   <div id="ftco-loader" class="show fullscreen"><svg class="circular" width="48px" height="48px"><circle class="path-bg" cx="24" cy="24" r="22" fill="none" stroke-width="4" stroke="#eeeeee"/><circle class="path" cx="24" cy="24" r="22" fill="none" stroke-width="4" stroke-miterlimit="10" stroke="#F96D00"/></svg></div>
@@ -294,6 +293,6 @@
   <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBVWaKrjvy3MaE7SQ74_uJiULgl1JY0H2s&sensor=false"></script>
   <script src="js/google-map.js"></script>
   <script src="js/main.js"></script>
-    
+
   </body>
 </html>

@@ -75,8 +75,7 @@
               <span class="icon-map-signs"></span>
             </div>
             <h3 class="mb-2">Address</h3>
-            <p>Ole Sangale Road, off
-              Langata Road, in Madaraka Estate, Nairobi, Kenya.</p>
+            <p>Bagmati Province</p>
           </div>
         </div>
         <div class="col-md-3 d-flex">
@@ -146,7 +145,7 @@
               @endif
             </div>
 
-            
+
 
             <div class="form-group">
               <label>Subject</label>
@@ -228,8 +227,7 @@
             <h2 class="ftco-heading-2">Have a Questions?</h2>
             <div class="block-23 mb-3">
               <ul>
-                <li><span class="icon icon-map-marker"></span><span class="text">Ole Sangale Road, off
-                    Langata Road, in Madaraka Estate, Nairobi, Kenya.</span></li>
+                <li><span class="icon icon-map-marker"></span><span class="text">Bagmati Province</span></li>
                 <li><a href="#"><span class="icon icon-phone"></span><span class="text">+254712345678</span></a></li>
                 <li><a href="#"><span class="icon icon-envelope"></span><span
                       class="text">info@yourdomain.com</span></a></li>

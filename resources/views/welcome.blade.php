@@ -311,11 +311,11 @@
 			</div>
 			@endforeach
 
-			
+
 		</div>
 		{{ $destinations->appends(['search' => request()->query('search')])->links() }}
 	</div>
-	
+
 </section>
 
 {{--<section class="ftco-section testimony-section bg-bottom" style="background-image: url(images/bg_3.jpg);">
@@ -526,8 +526,7 @@
 					<h2 class="ftco-heading-2">Have any Questions?</h2>
 					<div class="block-23 mb-3">
 						<ul>
-							<li><span class="icon icon-map-marker"></span><span class="text">Ole Sangale Road, off
-									Langata Road, in Madaraka Estate, Nairobi, Kenya.</span></li>
+							<li><span class="icon icon-map-marker"></span><span class="text">Bagmati Province</span></li>
 							<li><a href="#"><span class="icon icon-phone"></span><span
 										class="text">+254712345678</span></a></li>
 							<li><a href="#"><span class="icon icon-envelope"></span><span
